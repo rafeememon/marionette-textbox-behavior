@@ -1,0 +1,28 @@
+{
+  "name": "marionette-textbox-behavior",
+  "version": "0.1.0",
+  "description": "A Marionette behavior that synchronizes a text input field with a model field.",
+  "author": {
+    "name": "Rafee Memon",
+    "email": "rafeememon@gmail.com",
+    "url": "https://github.com/rafeememon/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafeememon/marionette-textbox-behavior.git"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/rafeememon/marionette-textbox-behavior/blob/master/LICENSE"
+  },
+  "homepage": "https://github.com/rafeememon/marionette-textbox-behavior",
+  "main": "./lib/textbox-behavior.js",
+  "dependencies": {
+    "backbone.marionette": ">=2.0.0",
+    "underscore": "1.4.4 - 1.6.0"
+  },
+  "files": [
+    "lib",
+    "LICENSE"
+  ]
+}
