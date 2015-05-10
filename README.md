@@ -1,6 +1,8 @@
 marionette-textbox-behavior
 ===========================
 
+[![NPM version](https://img.shields.io/npm/v/marionette-textbox-behavior.svg)](https://www.npmjs.org/package/marionette-textbox-behavior)
+![Bower version](https://img.shields.io/bower/v/marionette-textbox-behavior.svg)
 [![Build Status](https://travis-ci.org/rafeememon/marionette-textbox-behavior.svg)](https://travis-ci.org/rafeememon/marionette-textbox-behavior)
 
 ## Description
